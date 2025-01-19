@@ -1,6 +1,6 @@
 # Topsis_UditGupta_102203835
 
-`Topsis_UditGupta_1022038358`is a Python package for implementing the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS). It is a popular multi-criteria decision-making method used to rank alternatives based on their relative closeness to the ideal solution.
+`Topsis_UditGupta_102203835`is a Python package for implementing the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS). It is a popular multi-criteria decision-making method used to rank alternatives based on their relative closeness to the ideal solution.
 
 ## Installation
 
