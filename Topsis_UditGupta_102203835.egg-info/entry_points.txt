@@ -1,2 +1,2 @@
 [console_scripts]
-topsis = topsis:run
+topsis = topsis.topsis:run
